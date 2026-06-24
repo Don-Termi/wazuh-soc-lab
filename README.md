@@ -39,7 +39,6 @@ The lab consists of **4 virtual machines**:
 - Web attack detection using ModSecurity (WAF)
 - Security event classification by severity levels
 - Endpoint monitoring (Linux & Windows)
-- Detection of simulated DoS attacks
 - Real-time dashboard visualization
 
 ---
